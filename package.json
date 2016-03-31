@@ -1,0 +1,22 @@
+{
+  "name": "subscribe-ev",
+  "version": "1.0.0",
+  "description": "Subscribe to events and prepare to unsubscribe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arestov/subscribe-ev.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "Gleb Arestov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arestov/subscribe-ev/issues"
+  },
+  "homepage": "https://github.com/arestov/subscribe-ev"
+}
